@@ -42,7 +42,7 @@ web-summarizer/
 
 * **Python 3.9+**
 * **LangChain**
-* **HuggingFace **
+* **HuggingFace**
 * **BeautifulSoup4**
 * **Requests**
 * **dotenv**
