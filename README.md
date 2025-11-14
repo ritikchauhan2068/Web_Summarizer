@@ -30,7 +30,7 @@ Whether you're doing research, reading news, or processing large amounts of cont
 
 ```
 web-summarizer/
-│── app.py                  # Main script for summarization
+│── web_summarizer.py       # Main script for summarization
 │── requirements.txt        # Project dependencies
 │── README.md               # Documentation
 │── .env                    # API keys (ignored by Git)
@@ -42,7 +42,7 @@ web-summarizer/
 
 * **Python 3.9+**
 * **LangChain**
-* **HuggingFace / OpenAI / Any LLM provider**
+* **HuggingFace **
 * **BeautifulSoup4**
 * **Requests**
 * **dotenv**
